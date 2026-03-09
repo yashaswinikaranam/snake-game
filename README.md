@@ -57,15 +57,7 @@ snake-game
 
 ## 📸 Screenshot
 
-
-
-Example:
-
-```
 ![Snake Game Screenshot](screenshot.png)
-```
-
----
 
 ## 📌 Future Improvements
 
